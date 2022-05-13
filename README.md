@@ -1,6 +1,7 @@
 # Tailor.swift
 Wear whatever you want, not only on the computer, but whilst shopping as well. Provides a carefully designed chrome extension for optimal User Experience, and a seamless transition from desktop to mobile. 
 
+_Read this in other languages: [English](https://github.com/Tailor-swift/Tailor.swift/README.md), [한국어](https://github.com/Tailor-swift/Tailor.swift/lang/README.ko.md)_
 ## How to Use
 Requirements:
 * Chrome
