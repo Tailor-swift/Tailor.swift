@@ -14,11 +14,14 @@ _Read this in other languages: [English](https://github.com/Tailor-swift/Tailor.
 ## 활용 기술
 딥러닝
 * PyTorch
+
 백엔드
 * FastAPI
 * AWS Lambda
+
 프론트엔드
 * Flutter
+
 협업
 * Docker
 * JIRA
