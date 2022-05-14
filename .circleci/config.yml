@@ -1,8 +1,19 @@
 # Use the latest 2.1 version of CircleCI pipeline process engine.
 # See: https://circleci.com/docs/2.0/configuration-reference
 version: 2.1
-# Custom Orbs for integrations with other services.
+
+# Orbs are reusable packages of CircleCI configuration that you may share across projects, enabling you to create encapsulated, parameterized commands, jobs, and executors that can be used across multiple projects.
+# See: https://circleci.com/docs/2.0/orb-intro/
 orbs: 
+  # The python orb contains a set of prepackaged CircleCI configuration you can use repeatedly in your configuration files
+  # Orb commands and jobs help you with common scripting around a language/tool
+  # so you dont have to copy and paste it everywhere.
+  # See the orb documentation here: https://circleci.com/developer/orbs/orb/circleci/python
+  python: circleci/python@1.5.0
+  # The slack orb implements event-based notifications across all of your CI/CD pipelines. 
+  # Utilizing built-in message templates or Slack's visual Block-Kit builder, 
+  # create and customize notifications specific to your organization's needs. Supports Linux x86_64, MacOS, and Arm64 V8.
+  # See the orb documentation here: https://circleci.com/developer/orbs/orb/circleci/slack
   slack: circleci/slack@4.10.1
 
 # Define a job to be invoked later in a workflow.
