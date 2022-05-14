@@ -28,3 +28,4 @@ Frontend
 * Flutter
 
 ## Collaborators
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Tailor-swift/Tailor.swift)
