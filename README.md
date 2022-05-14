@@ -1,5 +1,7 @@
 # Synopsis
 ![logo](https://user-images.githubusercontent.com/29195190/168416406-1b503f9a-59a2-4805-878d-7f2c9bf3b1ad.svg)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Tailor-swift/Tailor.swift)
+![CircleCI](https://img.shields.io/circleci/build/github/Tailor-swift/Tailor.swift)
 
 Wear whatever you want, not only on the computer, but whilst shopping as well. Provides a carefully designed chrome extension for optimal User Experience, and a seamless transition from desktop to mobile. 
 
